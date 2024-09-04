@@ -1,0 +1,16 @@
+{
+    "classes": [
+        {
+            "name": "box",
+            "id": 2,
+            "color": "#f156ff"
+        }
+    ],
+    "default": 2,
+    "type": "object_detection",
+    "format": "vertices",
+    "created_with": {
+        "name": "labelCloud",
+        "version": "1.1.1"
+    }
+}

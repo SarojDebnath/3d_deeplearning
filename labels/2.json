@@ -1,0 +1,25 @@
+{
+	"folder": "pointclouds",
+	"filename": "2.pcd",
+	"path": "pointclouds\\2.pcd",
+	"objects": [
+		{
+			"name": "unassigned",
+			"centroid": {
+				"x": -0.05366782,
+				"y": 0.02306972,
+				"z": -1.47618204
+			},
+			"dimensions": {
+				"length": 0.75,
+				"width": 0.55,
+				"height": 0.21
+			},
+			"rotations": {
+				"x": 0,
+				"y": 0,
+				"z": 0
+			}
+		}
+	]
+}
