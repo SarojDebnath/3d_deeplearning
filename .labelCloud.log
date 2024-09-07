@@ -1,167 +1,118 @@
-2024-09-04 11:48:21,059 - INFO    : Set export strategy to CentroidFormat.
-2024-09-04 11:48:21,060 - INFO    : Saving rotations absolutely to positve x-axis in degrees (0..360°).
-2024-09-04 11:48:31,022 - INFO    : Loading next point cloud...
-2024-09-04 11:48:31,022 - INFO    : Loading point cloud from pointclouds\1.pcd using Open3DHandler.
-2024-09-04 11:48:31,030 - INFO    : ================================ Loading 1.pcd =================================
-2024-09-04 11:48:31,034 - INFO    : Successfully loaded point cloud from pointclouds\1.pcd!
-2024-09-04 11:48:31,036 - INFO    : Number of Points:      92514         
-2024-09-04 11:48:31,040 - INFO    : Number of Colors:      92514         
-2024-09-04 11:48:31,043 - INFO    : Point Cloud Center:    [ 0.27  0.28 -1.81]    
-2024-09-04 11:48:31,043 - INFO    : Point Cloud Minimums:  [-0.7  -0.72 -2.77]    
-2024-09-04 11:48:31,044 - INFO    : Point Cloud Maximums:  [ 1.65  0.87 -0.77]    
-2024-09-04 11:48:31,044 - INFO    : Initial Translation:   [-0.27 -0.28 -1.67]    
-2024-09-04 11:48:31,044 - INFO    : ================================================================================
-2024-09-04 11:48:31,044 - WARNING : There is currently no active bounding box to manipulate.
-2024-09-04 11:48:31,045 - WARNING : There is currently no active bounding box to manipulate.
-2024-09-04 11:48:31,046 - WARNING : There is currently no active bounding box to manipulate.
-2024-09-04 11:48:31,046 - WARNING : There is currently no active bounding box to manipulate.
-2024-09-04 11:48:31,046 - WARNING : There is currently no active bounding box to manipulate.
-2024-09-04 11:48:31,048 - INFO    : Alignmode was changed to False!
-2024-09-04 11:48:31,048 - INFO    : Imported 0 labels from labels\1.json.
-2024-09-04 11:48:31,049 - INFO    : Loaded 0 bboxes!
-2024-09-04 11:48:31,049 - WARNING : There is currently no active bounding box to manipulate.
-2024-09-04 11:48:31,049 - WARNING : There is currently no active bounding box to manipulate.
-2024-09-04 11:48:31,049 - WARNING : There is currently no active bounding box to manipulate.
-2024-09-04 11:48:31,050 - WARNING : There is currently no active bounding box to manipulate.
-2024-09-04 11:48:31,050 - WARNING : There is currently no active bounding box to manipulate.
-2024-09-04 11:48:31,050 - WARNING : There is currently no active bounding box to manipulate.
-2024-09-04 11:48:31,067 - INFO    : Intialized widget.
-2024-09-04 11:48:31,076 - INFO    : Resized widget.
-2024-09-04 11:48:31,148 - INFO    : Resized widget.
-2024-09-04 11:48:31,150 - INFO    : Showing GUI...
-2024-09-04 11:48:31,152 - INFO    : Resized widget.
-2024-09-04 11:48:31,286 - INFO    : Resized widget.
-2024-09-04 11:48:34,226 - INFO    : File labels\1.json already exists, replacing file ...
-2024-09-04 11:48:34,234 - INFO    : Exported 0 labels to labels\1.json in CentroidFormat formatting!
-2024-09-04 11:48:34,234 - INFO    : Loading next point cloud...
-2024-09-04 11:48:34,234 - INFO    : Loading point cloud from pointclouds\2.pcd using Open3DHandler.
-2024-09-04 11:48:34,248 - INFO    : ================================ Loading 2.pcd =================================
-2024-09-04 11:48:34,278 - INFO    : Successfully loaded point cloud from pointclouds\2.pcd!
-2024-09-04 11:48:34,278 - INFO    : Number of Points:      223436        
-2024-09-04 11:48:34,278 - INFO    : Number of Colors:      223436        
-2024-09-04 11:48:34,278 - INFO    : Point Cloud Center:    [ 0.11 -0.   -1.5 ]    
-2024-09-04 11:48:34,278 - INFO    : Point Cloud Minimums:  [-1.15 -0.65 -2.75]    
-2024-09-04 11:48:34,279 - INFO    : Point Cloud Maximums:  [ 1.18  0.73 -1.3 ]    
-2024-09-04 11:48:34,279 - INFO    : Initial Translation:   [-0.11  0.   -1.58]    
-2024-09-04 11:48:34,279 - INFO    : ================================================================================
-2024-09-04 11:48:34,280 - WARNING : There is currently no active bounding box to manipulate.
-2024-09-04 11:48:34,280 - WARNING : There is currently no active bounding box to manipulate.
-2024-09-04 11:48:34,280 - WARNING : There is currently no active bounding box to manipulate.
-2024-09-04 11:48:34,281 - WARNING : There is currently no active bounding box to manipulate.
-2024-09-04 11:48:34,281 - WARNING : There is currently no active bounding box to manipulate.
-2024-09-04 11:48:34,281 - WARNING : There is currently no active bounding box to manipulate.
-2024-09-04 11:48:34,281 - INFO    : Alignmode was changed to False!
-2024-09-04 11:48:34,281 - INFO    : Imported 1 labels from labels\2.json.
-2024-09-04 11:48:34,281 - INFO    : Loaded 1 bboxes!
-2024-09-04 11:48:34,282 - WARNING : There is currently no active bounding box to manipulate.
-2024-09-04 11:48:34,282 - WARNING : There is currently no active bounding box to manipulate.
-2024-09-04 11:48:34,282 - WARNING : There is currently no active bounding box to manipulate.
-2024-09-04 11:48:34,293 - WARNING : No color defined for class 'unassigned'!Proceeding with red.
-2024-09-04 11:48:34,727 - INFO    : File labels\2.json already exists, replacing file ...
-2024-09-04 11:48:34,739 - INFO    : Exported 1 labels to labels\2.json in CentroidFormat formatting!
-2024-09-04 11:48:34,739 - INFO    : Loading next point cloud...
-2024-09-04 11:48:34,739 - INFO    : Loading point cloud from pointclouds\3.ply using Open3DHandler.
-2024-09-04 11:48:34,765 - INFO    : ================================ Loading 3.ply =================================
-2024-09-04 11:48:34,787 - INFO    : Successfully loaded point cloud from pointclouds\3.ply!
-2024-09-04 11:48:34,788 - INFO    : Number of Points:      197864        
-2024-09-04 11:48:34,788 - INFO    : Number of Colors:      197864        
-2024-09-04 11:48:34,788 - INFO    : Point Cloud Center:    [ 0.01  0.06 -1.76]    
-2024-09-04 11:48:34,788 - INFO    : Point Cloud Minimums:  [-1.94 -0.94 -3.  ]    
-2024-09-04 11:48:34,788 - INFO    : Point Cloud Maximums:  [ 1.55  0.74 -1.45]    
-2024-09-04 11:48:34,788 - INFO    : Initial Translation:   [-0.01 -0.06 -2.41]    
-2024-09-04 11:48:34,788 - INFO    : ================================================================================
-2024-09-04 11:48:34,790 - WARNING : There is currently no active bounding box to manipulate.
-2024-09-04 11:48:34,790 - WARNING : There is currently no active bounding box to manipulate.
-2024-09-04 11:48:34,790 - WARNING : There is currently no active bounding box to manipulate.
-2024-09-04 11:48:34,791 - WARNING : There is currently no active bounding box to manipulate.
-2024-09-04 11:48:34,791 - WARNING : There is currently no active bounding box to manipulate.
-2024-09-04 11:48:34,791 - WARNING : There is currently no active bounding box to manipulate.
-2024-09-04 11:48:34,791 - INFO    : Alignmode was changed to False!
-2024-09-04 11:48:34,791 - INFO    : Loaded 0 bboxes!
-2024-09-04 11:48:34,791 - WARNING : There is currently no active bounding box to manipulate.
-2024-09-04 11:48:34,791 - WARNING : There is currently no active bounding box to manipulate.
-2024-09-04 11:48:34,791 - WARNING : There is currently no active bounding box to manipulate.
-2024-09-04 11:48:34,792 - WARNING : There is currently no active bounding box to manipulate.
-2024-09-04 11:48:34,792 - WARNING : There is currently no active bounding box to manipulate.
-2024-09-04 11:48:34,792 - WARNING : There is currently no active bounding box to manipulate.
-2024-09-04 11:48:36,587 - INFO    : Exported 0 labels to labels\3.json in CentroidFormat formatting!
-2024-09-04 11:48:36,587 - INFO    : Loading previous point cloud...
-2024-09-04 11:48:36,587 - INFO    : Loading point cloud from pointclouds\2.pcd using Open3DHandler.
-2024-09-04 11:48:36,619 - INFO    : ================================ Loading 2.pcd =================================
-2024-09-04 11:48:36,632 - INFO    : Successfully loaded point cloud from pointclouds\2.pcd!
-2024-09-04 11:48:36,632 - INFO    : Number of Points:      223436        
-2024-09-04 11:48:36,632 - INFO    : Number of Colors:      223436        
-2024-09-04 11:48:36,632 - INFO    : Point Cloud Center:    [ 0.11 -0.   -1.5 ]    
-2024-09-04 11:48:36,632 - INFO    : Point Cloud Minimums:  [-1.15 -0.65 -2.75]    
-2024-09-04 11:48:36,632 - INFO    : Point Cloud Maximums:  [ 1.18  0.73 -1.3 ]    
-2024-09-04 11:48:36,632 - INFO    : Initial Translation:   [-0.11  0.   -1.58]    
-2024-09-04 11:48:36,632 - INFO    : ================================================================================
-2024-09-04 11:48:36,632 - WARNING : There is currently no active bounding box to manipulate.
-2024-09-04 11:48:36,632 - WARNING : There is currently no active bounding box to manipulate.
-2024-09-04 11:48:36,632 - WARNING : There is currently no active bounding box to manipulate.
-2024-09-04 11:48:36,632 - WARNING : There is currently no active bounding box to manipulate.
-2024-09-04 11:48:36,632 - WARNING : There is currently no active bounding box to manipulate.
-2024-09-04 11:48:36,632 - WARNING : There is currently no active bounding box to manipulate.
-2024-09-04 11:48:36,632 - INFO    : Alignmode was changed to False!
-2024-09-04 11:48:36,632 - INFO    : Imported 1 labels from labels\2.json.
-2024-09-04 11:48:36,632 - INFO    : Loaded 1 bboxes!
-2024-09-04 11:48:36,632 - WARNING : There is currently no active bounding box to manipulate.
-2024-09-04 11:48:36,638 - WARNING : There is currently no active bounding box to manipulate.
-2024-09-04 11:48:36,638 - WARNING : There is currently no active bounding box to manipulate.
-2024-09-04 11:48:38,687 - INFO    : File labels\2.json already exists, replacing file ...
-2024-09-04 11:48:38,690 - INFO    : Exported 1 labels to labels\2.json in CentroidFormat formatting!
-2024-09-04 11:48:38,690 - INFO    : Loading next point cloud...
-2024-09-04 11:48:38,690 - INFO    : Loading point cloud from pointclouds\3.ply using Open3DHandler.
-2024-09-04 11:48:38,711 - INFO    : ================================ Loading 3.ply =================================
-2024-09-04 11:48:38,734 - INFO    : Successfully loaded point cloud from pointclouds\3.ply!
-2024-09-04 11:48:38,734 - INFO    : Number of Points:      197864        
-2024-09-04 11:48:38,734 - INFO    : Number of Colors:      197864        
-2024-09-04 11:48:38,735 - INFO    : Point Cloud Center:    [ 0.01  0.06 -1.76]    
-2024-09-04 11:48:38,735 - INFO    : Point Cloud Minimums:  [-1.94 -0.94 -3.  ]    
-2024-09-04 11:48:38,735 - INFO    : Point Cloud Maximums:  [ 1.55  0.74 -1.45]    
-2024-09-04 11:48:38,735 - INFO    : Initial Translation:   [-0.01 -0.06 -2.41]    
-2024-09-04 11:48:38,735 - INFO    : ================================================================================
-2024-09-04 11:48:38,736 - WARNING : There is currently no active bounding box to manipulate.
-2024-09-04 11:48:38,736 - WARNING : There is currently no active bounding box to manipulate.
-2024-09-04 11:48:38,736 - WARNING : There is currently no active bounding box to manipulate.
-2024-09-04 11:48:38,736 - WARNING : There is currently no active bounding box to manipulate.
-2024-09-04 11:48:38,736 - WARNING : There is currently no active bounding box to manipulate.
-2024-09-04 11:48:38,737 - WARNING : There is currently no active bounding box to manipulate.
-2024-09-04 11:48:38,737 - INFO    : Alignmode was changed to False!
-2024-09-04 11:48:38,737 - INFO    : Imported 0 labels from labels\3.json.
-2024-09-04 11:48:38,737 - INFO    : Loaded 0 bboxes!
-2024-09-04 11:48:38,737 - WARNING : There is currently no active bounding box to manipulate.
-2024-09-04 11:48:38,738 - WARNING : There is currently no active bounding box to manipulate.
-2024-09-04 11:48:38,738 - WARNING : There is currently no active bounding box to manipulate.
-2024-09-04 11:48:38,738 - WARNING : There is currently no active bounding box to manipulate.
-2024-09-04 11:48:38,738 - WARNING : There is currently no active bounding box to manipulate.
-2024-09-04 11:48:38,738 - WARNING : There is currently no active bounding box to manipulate.
-2024-09-04 11:48:40,113 - INFO    : File labels\3.json already exists, replacing file ...
-2024-09-04 11:48:40,124 - INFO    : Exported 0 labels to labels\3.json in CentroidFormat formatting!
-2024-09-04 11:48:40,124 - INFO    : Loading next point cloud...
-2024-09-04 11:48:40,124 - INFO    : Loading point cloud from pointclouds\exemplary.ply using Open3DHandler.
-2024-09-04 11:48:40,134 - INFO    : ============================ Loading exemplary.ply =============================
-2024-09-04 11:48:40,142 - INFO    : Successfully loaded point cloud from pointclouds\exemplary.ply!
-2024-09-04 11:48:40,142 - INFO    : Number of Points:      86357         
-2024-09-04 11:48:40,143 - INFO    : Number of Colors:      86357         
-2024-09-04 11:48:40,143 - INFO    : Point Cloud Center:    [ 0.03 -0.37  0.29]    
-2024-09-04 11:48:40,143 - INFO    : Point Cloud Minimums:  [-2.02 -1.42 -0.03]    
-2024-09-04 11:48:40,143 - INFO    : Point Cloud Maximums:  [0.98 0.95 0.94]       
-2024-09-04 11:48:40,143 - INFO    : Initial Translation:   [-0.03  0.37 -4.22]    
-2024-09-04 11:48:40,144 - INFO    : ================================================================================
-2024-09-04 11:48:40,148 - WARNING : There is currently no active bounding box to manipulate.
-2024-09-04 11:48:40,148 - WARNING : There is currently no active bounding box to manipulate.
-2024-09-04 11:48:40,148 - WARNING : There is currently no active bounding box to manipulate.
-2024-09-04 11:48:40,149 - WARNING : There is currently no active bounding box to manipulate.
-2024-09-04 11:48:40,149 - WARNING : There is currently no active bounding box to manipulate.
-2024-09-04 11:48:40,149 - WARNING : There is currently no active bounding box to manipulate.
-2024-09-04 11:48:40,149 - INFO    : Alignmode was changed to False!
-2024-09-04 11:48:40,150 - INFO    : Imported 1 labels from labels\exemplary.json.
-2024-09-04 11:48:40,150 - INFO    : Loaded 1 bboxes!
-2024-09-04 11:48:40,150 - WARNING : There is currently no active bounding box to manipulate.
-2024-09-04 11:48:40,151 - WARNING : There is currently no active bounding box to manipulate.
-2024-09-04 11:48:40,151 - WARNING : There is currently no active bounding box to manipulate.
-2024-09-04 11:48:40,153 - WARNING : No color defined for class 'cart'!Proceeding with red.
-2024-09-04 11:48:54,802 - INFO    : Closing window after saving ...
-2024-09-04 11:48:54,802 - INFO    : File labels\exemplary.json already exists, replacing file ...
-2024-09-04 11:48:54,814 - INFO    : Exported 1 labels to labels\exemplary.json in CentroidFormat formatting!
+2024-09-06 21:09:50,723 - INFO    : Set export strategy to VerticesFormat.
+2024-09-06 21:09:50,723 - INFO    : Saving rotations implicitly in the vertices coordinates.
+2024-09-06 21:09:54,555 - INFO    : Loading next point cloud...
+2024-09-06 21:09:54,556 - INFO    : Loading point cloud from pointclouds\1.pcd using Open3DHandler.
+2024-09-06 21:09:54,568 - INFO    : ================================ Loading 1.pcd =================================
+2024-09-06 21:09:54,573 - INFO    : Successfully loaded point cloud from pointclouds\1.pcd!
+2024-09-06 21:09:54,574 - INFO    : Number of Points:      92514         
+2024-09-06 21:09:54,574 - INFO    : Number of Colors:      92514         
+2024-09-06 21:09:54,574 - INFO    : Point Cloud Center:    [ 0.27  0.28 -1.81]    
+2024-09-06 21:09:54,574 - INFO    : Point Cloud Minimums:  [-0.7  -0.72 -2.77]    
+2024-09-06 21:09:54,575 - INFO    : Point Cloud Maximums:  [ 1.65  0.87 -0.77]    
+2024-09-06 21:09:54,575 - INFO    : Initial Translation:   [-0.27 -0.28 -1.67]    
+2024-09-06 21:09:54,575 - INFO    : ================================================================================
+2024-09-06 21:09:54,575 - WARNING : There is currently no active bounding box to manipulate.
+2024-09-06 21:09:54,575 - WARNING : There is currently no active bounding box to manipulate.
+2024-09-06 21:09:54,576 - WARNING : There is currently no active bounding box to manipulate.
+2024-09-06 21:09:54,576 - WARNING : There is currently no active bounding box to manipulate.
+2024-09-06 21:09:54,576 - WARNING : There is currently no active bounding box to manipulate.
+2024-09-06 21:09:54,577 - INFO    : Alignmode was changed to False!
+2024-09-06 21:09:54,578 - INFO    : Imported 0 labels from labels\1.json.
+2024-09-06 21:09:54,578 - INFO    : Loaded 0 bboxes!
+2024-09-06 21:09:54,578 - WARNING : There is currently no active bounding box to manipulate.
+2024-09-06 21:09:54,578 - WARNING : There is currently no active bounding box to manipulate.
+2024-09-06 21:09:54,578 - WARNING : There is currently no active bounding box to manipulate.
+2024-09-06 21:09:54,578 - WARNING : There is currently no active bounding box to manipulate.
+2024-09-06 21:09:54,578 - WARNING : There is currently no active bounding box to manipulate.
+2024-09-06 21:09:54,578 - WARNING : There is currently no active bounding box to manipulate.
+2024-09-06 21:09:54,591 - INFO    : Intialized widget.
+2024-09-06 21:09:54,601 - INFO    : Resized widget.
+2024-09-06 21:09:54,638 - INFO    : Showing GUI...
+2024-09-06 21:09:54,640 - INFO    : Resized widget.
+2024-09-06 21:09:54,792 - INFO    : Resized widget.
+2024-09-06 21:09:58,279 - INFO    : File labels\1.json already exists, replacing file ...
+2024-09-06 21:09:58,295 - INFO    : Exported 0 labels to labels\1.json in VerticesFormat formatting!
+2024-09-06 21:09:58,296 - INFO    : Loading next point cloud...
+2024-09-06 21:09:58,296 - INFO    : Loading point cloud from pointclouds\2.pcd using Open3DHandler.
+2024-09-06 21:09:58,309 - INFO    : ================================ Loading 2.pcd =================================
+2024-09-06 21:09:58,340 - INFO    : Successfully loaded point cloud from pointclouds\2.pcd!
+2024-09-06 21:09:58,340 - INFO    : Number of Points:      223436        
+2024-09-06 21:09:58,341 - INFO    : Number of Colors:      223436        
+2024-09-06 21:09:58,341 - INFO    : Point Cloud Center:    [ 0.11 -0.   -1.5 ]    
+2024-09-06 21:09:58,341 - INFO    : Point Cloud Minimums:  [-1.15 -0.65 -2.75]    
+2024-09-06 21:09:58,341 - INFO    : Point Cloud Maximums:  [ 1.18  0.73 -1.3 ]    
+2024-09-06 21:09:58,341 - INFO    : Initial Translation:   [-0.11  0.   -1.58]    
+2024-09-06 21:09:58,341 - INFO    : ================================================================================
+2024-09-06 21:09:58,342 - WARNING : There is currently no active bounding box to manipulate.
+2024-09-06 21:09:58,342 - WARNING : There is currently no active bounding box to manipulate.
+2024-09-06 21:09:58,342 - WARNING : There is currently no active bounding box to manipulate.
+2024-09-06 21:09:58,343 - WARNING : There is currently no active bounding box to manipulate.
+2024-09-06 21:09:58,343 - WARNING : There is currently no active bounding box to manipulate.
+2024-09-06 21:09:58,343 - WARNING : There is currently no active bounding box to manipulate.
+2024-09-06 21:09:58,343 - INFO    : Alignmode was changed to False!
+2024-09-06 21:09:58,344 - INFO    : Loaded bounding box has rotation (x, y, z): 0.0, 0.0, 0.5000002015662648
+2024-09-06 21:09:58,344 - INFO    : Loaded bounding box has rotation (x, y, z): 0.0, 0.0, 0.0
+2024-09-06 21:09:58,344 - INFO    : Imported 2 labels from labels\2.json.
+2024-09-06 21:09:58,344 - INFO    : Loaded 2 bboxes!
+2024-09-06 21:09:58,344 - WARNING : There is currently no active bounding box to manipulate.
+2024-09-06 21:09:58,344 - WARNING : There is currently no active bounding box to manipulate.
+2024-09-06 21:09:58,344 - WARNING : There is currently no active bounding box to manipulate.
+2024-09-06 21:10:01,331 - INFO    : File labels\2.json already exists, replacing file ...
+2024-09-06 21:10:01,344 - INFO    : Exported 2 labels to labels\2.json in VerticesFormat formatting!
+2024-09-06 21:10:01,344 - INFO    : Loading next point cloud...
+2024-09-06 21:10:01,345 - INFO    : Loading point cloud from pointclouds\3.ply using Open3DHandler.
+2024-09-06 21:10:01,372 - INFO    : ================================ Loading 3.ply =================================
+2024-09-06 21:10:01,390 - INFO    : Successfully loaded point cloud from pointclouds\3.ply!
+2024-09-06 21:10:01,391 - INFO    : Number of Points:      197864        
+2024-09-06 21:10:01,391 - INFO    : Number of Colors:      197864        
+2024-09-06 21:10:01,391 - INFO    : Point Cloud Center:    [ 0.01  0.06 -1.76]    
+2024-09-06 21:10:01,391 - INFO    : Point Cloud Minimums:  [-1.94 -0.94 -3.  ]    
+2024-09-06 21:10:01,391 - INFO    : Point Cloud Maximums:  [ 1.55  0.74 -1.45]    
+2024-09-06 21:10:01,391 - INFO    : Initial Translation:   [-0.01 -0.06 -2.41]    
+2024-09-06 21:10:01,391 - INFO    : ================================================================================
+2024-09-06 21:10:01,392 - WARNING : There is currently no active bounding box to manipulate.
+2024-09-06 21:10:01,392 - WARNING : There is currently no active bounding box to manipulate.
+2024-09-06 21:10:01,393 - WARNING : There is currently no active bounding box to manipulate.
+2024-09-06 21:10:01,393 - WARNING : There is currently no active bounding box to manipulate.
+2024-09-06 21:10:01,393 - WARNING : There is currently no active bounding box to manipulate.
+2024-09-06 21:10:01,393 - WARNING : There is currently no active bounding box to manipulate.
+2024-09-06 21:10:01,393 - INFO    : Alignmode was changed to False!
+2024-09-06 21:10:01,394 - INFO    : Imported 0 labels from labels\3.json.
+2024-09-06 21:10:01,394 - INFO    : Loaded 0 bboxes!
+2024-09-06 21:10:01,394 - WARNING : There is currently no active bounding box to manipulate.
+2024-09-06 21:10:01,394 - WARNING : There is currently no active bounding box to manipulate.
+2024-09-06 21:10:01,394 - WARNING : There is currently no active bounding box to manipulate.
+2024-09-06 21:10:01,394 - WARNING : There is currently no active bounding box to manipulate.
+2024-09-06 21:10:01,394 - WARNING : There is currently no active bounding box to manipulate.
+2024-09-06 21:10:01,394 - WARNING : There is currently no active bounding box to manipulate.
+2024-09-06 21:10:02,735 - INFO    : File labels\3.json already exists, replacing file ...
+2024-09-06 21:10:02,746 - INFO    : Exported 0 labels to labels\3.json in VerticesFormat formatting!
+2024-09-06 21:10:02,746 - INFO    : Loading next point cloud...
+2024-09-06 21:10:02,746 - INFO    : Loading point cloud from pointclouds\exemplary.ply using Open3DHandler.
+2024-09-06 21:10:02,756 - INFO    : ============================ Loading exemplary.ply =============================
+2024-09-06 21:10:02,766 - INFO    : Successfully loaded point cloud from pointclouds\exemplary.ply!
+2024-09-06 21:10:02,766 - INFO    : Number of Points:      86357         
+2024-09-06 21:10:02,766 - INFO    : Number of Colors:      86357         
+2024-09-06 21:10:02,767 - INFO    : Point Cloud Center:    [ 0.03 -0.37  0.29]    
+2024-09-06 21:10:02,767 - INFO    : Point Cloud Minimums:  [-2.02 -1.42 -0.03]    
+2024-09-06 21:10:02,767 - INFO    : Point Cloud Maximums:  [0.98 0.95 0.94]       
+2024-09-06 21:10:02,767 - INFO    : Initial Translation:   [-0.03  0.37 -4.22]    
+2024-09-06 21:10:02,767 - INFO    : ================================================================================
+2024-09-06 21:10:02,771 - WARNING : There is currently no active bounding box to manipulate.
+2024-09-06 21:10:02,772 - WARNING : There is currently no active bounding box to manipulate.
+2024-09-06 21:10:02,772 - WARNING : There is currently no active bounding box to manipulate.
+2024-09-06 21:10:02,773 - WARNING : There is currently no active bounding box to manipulate.
+2024-09-06 21:10:02,773 - WARNING : There is currently no active bounding box to manipulate.
+2024-09-06 21:10:02,773 - WARNING : There is currently no active bounding box to manipulate.
+2024-09-06 21:10:02,774 - INFO    : Alignmode was changed to False!
+2024-09-06 21:10:02,774 - INFO    : Imported 0 labels from labels\exemplary.json.
+2024-09-06 21:10:02,774 - INFO    : Loaded 0 bboxes!
+2024-09-06 21:10:02,774 - WARNING : There is currently no active bounding box to manipulate.
+2024-09-06 21:10:02,774 - WARNING : There is currently no active bounding box to manipulate.
+2024-09-06 21:10:02,774 - WARNING : There is currently no active bounding box to manipulate.
+2024-09-06 21:10:02,774 - WARNING : There is currently no active bounding box to manipulate.
+2024-09-06 21:10:02,774 - WARNING : There is currently no active bounding box to manipulate.
+2024-09-06 21:10:02,774 - WARNING : There is currently no active bounding box to manipulate.
+2024-09-06 21:10:04,722 - INFO    : Closing window after saving ...
+2024-09-06 21:10:04,722 - INFO    : File labels\exemplary.json already exists, replacing file ...
+2024-09-06 21:10:04,732 - INFO    : Exported 0 labels to labels\exemplary.json in VerticesFormat formatting!
